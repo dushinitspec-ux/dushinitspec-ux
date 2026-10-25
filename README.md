@@ -45,5 +45,6 @@ The website itself (Next.js, four languages, the in-browser demo runtime) is in
 
 [dushin.itspec@gmail.com](mailto:dushin.itspec@gmail.com) ·
 [Telegram](https://t.me/daniil_dushin) ·
+[LinkedIn](https://www.linkedin.com/in/daniil-dushin) ·
 [Website](https://site-production-898c.up.railway.app) ·
 [CV (PDF)](https://site-production-898c.up.railway.app/cv/daniil-dushin-cv-ai-developer.pdf)

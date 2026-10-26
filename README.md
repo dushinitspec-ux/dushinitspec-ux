@@ -6,7 +6,7 @@
 I build Python tools with LLMs and Telegram bots for small businesses, and I install and
 support the hardware they run on: IP cameras, recorders, sensors and MikroTik networks.
 Right now I deploy an AI computer-vision system for hotels and restaurants in Antalya.
-Open to relocation within the EU and to remote work.
+Open to remote work, full-time or part-time.
 
 **[Portfolio, case studies and live demos →](https://site-production-898c.up.railway.app)**
 
